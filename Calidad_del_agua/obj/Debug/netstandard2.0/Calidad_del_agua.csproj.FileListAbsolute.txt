@@ -1,0 +1,17 @@
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\bin\Debug\netstandard2.0\Calidad_del_agua.deps.json
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\bin\Debug\netstandard2.0\Calidad_del_agua.dll
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\obj\Debug\netstandard2.0\Calidad_del_agua.csprojAssemblyReference.cache
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\obj\Debug\netstandard2.0\Calidad_del_agua.AssemblyInfoInputs.cache
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\obj\Debug\netstandard2.0\Calidad_del_agua.AssemblyInfo.cs
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\bin\Debug\netstandard2.0\ref\Calidad_del_agua.dll
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\bin\Debug\netstandard2.0\Calidad_del_agua.pdb
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\obj\Debug\netstandard2.0\Calidad_del_agua.dll
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\obj\Debug\netstandard2.0\ref\Calidad_del_agua.dll
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\obj\Debug\netstandard2.0\Calidad_del_agua.pdb
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\obj\Debug\netstandard2.0\editar_estacion.xaml.g.cs
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\obj\Debug\netstandard2.0\nueva_estacion.xaml.g.cs
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\obj\Debug\netstandard2.0\Calidad_del_agua.csproj.CoreCompileInputs.cache
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Esli Castellanos\source\repos\Calidad_del_agua\Calidad_del_agua\obj\Debug\netstandard2.0\Map.xaml.g.cs

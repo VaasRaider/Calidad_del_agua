@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             x:Class="Calidad_del_agua.nueva_estacion">
+    <Grid Padding="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <maps:Map x:Name="map" Grid.ColumnSpan="2" Grid.Row="5"  Grid.RowSpan="4">
+            <x:Arguments>
+                <maps:MapSpan>
+                    <x:Arguments>
+                        <maps:Position>
+                            <x:Arguments>
+                                <x:Double>19.281132965830054</x:Double>
+                                <x:Double>-103.73113897493732</x:Double>
+                            </x:Arguments>
+                        </maps:Position>
+                        <x:Double>0.01</x:Double>
+                        <x:Double>0.01</x:Double>
+                    </x:Arguments>
+                </maps:MapSpan>
+            </x:Arguments>
+        </maps:Map>
+        <Entry Grid.Row="1" Grid.ColumnSpan="2" x:Name="txttitle" Placeholder ="title"></Entry>
+        
+        <Entry Grid.Row="3" Grid.ColumnSpan="2" x:Name="txtdescription" Placeholder ="description"></Entry>
+        <Button Grid.Row="4" Grid.ColumnSpan="1" Clicked="Guardar" Text="Guardar" HorizontalOptions="Center"></Button>
+        <Button Grid.Row="4" Grid.ColumnSpan="2" Clicked="Cancelar" Text="Cancelar" HorizontalOptions="Center"></Button>
+    </Grid>
+</ContentPage>

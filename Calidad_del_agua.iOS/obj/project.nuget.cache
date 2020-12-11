@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aZb2rwTkaLkfuqkMzUhm2fTPhECn5fYmaFVK+bcSHjZu1nbn0yqfa7fQ4E0K/mwxpgPl/VULnoPzOYw2twdgww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Esli Castellanos\\source\\repos\\Calidad_del_agua\\Calidad_del_agua.iOS\\Calidad_del_agua.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Esli Castellanos\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512",
+    "C:\\Users\\Esli Castellanos\\.nuget\\packages\\xamarin.forms.maps\\4.6.0.1141\\xamarin.forms.maps.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

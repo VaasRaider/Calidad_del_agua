@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calidad_del_agua.editar_estacion">
+    <Grid Padding="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <!--<Entry Grid.Row="1" Grid.ColumnSpan="2" x:Name="txtid" Text ="{Binding _id}"></Entry> -->
+        <Entry Grid.Row="1" Grid.ColumnSpan="2" x:Name="txttitle" Text ="{Binding title}"></Entry>
+        <Entry Grid.Row="2" Grid.ColumnSpan="2" x:Name="txtdescription" Text ="{Binding description}"></Entry>
+        <!-- <Entry Grid.Row="4" Grid.ColumnSpan="2" x:Name="txtuser" Text ="{Binding user}"></Entry> -->
+        <Button Grid.Row="3" Grid.Column="0" Clicked="guardar_estacion" Text="Guardar" ></Button>
+        <Button Grid.Row="3" Grid.Column="1" Clicked="eliminar_estacion" Text="Eliminar" ></Button>
+        <Button Grid.Row="3" Grid.Column="2" Clicked="cancelar" Text="Cancelar" ></Button>
+    </Grid>
+</ContentPage>
